@@ -1,10 +1,6 @@
 package com.mytests.spring.springcustombeanannotations;
 
-/**
- * *
- * <p>Created by irina on 4/3/2025.</p>
- * *
- */
+
 public class B1 {
 
     String id;

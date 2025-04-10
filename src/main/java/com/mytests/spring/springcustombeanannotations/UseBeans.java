@@ -6,7 +6,6 @@ import org.springframework.stereotype.Component;
 @Component
 public class UseBeans {
 
-
     private final B1 foo;
 
     // multiple candidates are reported in case of @Bean(name) meta-annotation using

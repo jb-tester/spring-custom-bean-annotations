@@ -3,11 +3,7 @@ package com.mytests.spring.springcustombeanannotations;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-/**
- * *
- * <p>Created by irina on 4/3/2025.</p>
- * *
- */
+
 @Configuration
 public class BeansConfig {
 
